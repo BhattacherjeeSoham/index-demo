@@ -1,4 +1,4 @@
 # index-demo
 This is my first Git Repository. 
 <br>
-Author: Soham Bhattacherjee
+Author: Soham Bhattacherjee (A)
